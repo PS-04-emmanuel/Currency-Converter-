@@ -17,4 +17,4 @@ The Currency Converter app provides an easy and efficient way to convert currenc
 
 - **exchangerate-api** 
 
-## [Click Me To Visit Site](currency-converter-sdm3-fqbs6kyi7-prakhar-saxena-s-projects.vercel.app)
+## [Click Me To Visit Site](https://currency-converter-sdm3.vercel.app/)
